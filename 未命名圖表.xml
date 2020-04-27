@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-27T02:16:25.441Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="HOOdnYAUJa0aYb-3AJ5S" version="12.8.6" type="github" pages="4">
+<mxfile modified="2020-04-27T02:17:12.994Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vSOqUJevOS_dpVL3c_qX" version="12.8.6" type="github" pages="4">
   <diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -100,13 +100,13 @@
         <mxCell id="WYi3Z9Xc4xihT6VkrIFy-6" value="ECR相關模組版本資訊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
           <mxGeometry x="340" y="130" width="230" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WYi3Z9Xc4xihT6VkrIFy-7" value="出測清單" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
+        <mxCell id="WYi3Z9Xc4xihT6VkrIFy-7" value="出測清單" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
           <mxGeometry x="340" y="330" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WYi3Z9Xc4xihT6VkrIFy-8" value="進測 Issue Type 圓餅圖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
           <mxGeometry x="80" y="470" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WYi3Z9Xc4xihT6VkrIFy-9" value="出測 Issue Type圓餅圖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
+        <mxCell id="WYi3Z9Xc4xihT6VkrIFy-9" value="出測 Issue Type圓餅圖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
           <mxGeometry x="340" y="470" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3c0Ll2MJ165cfpe9GA3y-0" value="第三層" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="px2lJTG999kKLnHHpC_l-1">
