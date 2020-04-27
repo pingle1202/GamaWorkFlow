@@ -1,33 +1,4 @@
-<mxfile modified="2020-04-27T02:17:12.994Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vSOqUJevOS_dpVL3c_qX" version="12.8.6" type="github" pages="4">
-  <diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="240" y="90" width="710" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-1" value="鈔機1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-3" value="鈔機2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-4" value="出單機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-5" value="票機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-6" value="刷卡機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="110" width="510" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-7" value="上：掃瞄器&lt;br&gt;下：NFC Reader&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="370" width="370" height="240" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile modified="2020-04-27T03:35:52.243Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="PFBLdrYIPgTkvPJxxuUU" version="12.8.6" type="github" pages="3">
   <diagram id="FJq9z9u93imIyiz-j-7e" name="ECR Head">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
