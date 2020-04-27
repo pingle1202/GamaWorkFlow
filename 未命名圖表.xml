@@ -1,1 +1,60 @@
-<mxfile modified="2019-05-23T02:49:48.582Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="nxiSStCghPvLel_LHjDH" version="10.6.8" type="github"><diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">zZZBb5swFMc/zTtWAjtg+wgJ6aSpOyyHnV1wAA0wcpyF9NPPgCGhULWV1iVceP77Pdv8/Lcw4HXZPCpeZ08yEQUgJ2kAbwAh1/WoebXKuVeI7/dCqvLEJl2EXf4irOhY9Zgn4jBJ1FIWOq+nYiyrSsR6onGl5GmatpfFdNaap2Im7GJezNVfeaKz4bsc59LxTeRpZqemnu145vHvVMljZecDhPfd03eXfBjL5h8ynsjTlYQjwGslpe6jslmLomU7YOvrtm/0jutWotIfKXh4fKpI9f3wQmIWNezg4E35gPpR/vDiKIbP6BarzwOgU5Zrsat53LZPxgSAw0yXhWm5JuSHut+Wfd4IM1VoRxRKi+bNpbojAGMsIUuh1dmk2AK0ssysp5htni4bRAb/ZFd7M4rcmiIdh76AMYFl8wlO7pxTxIBSYCuIfAgYsK07Q9e5o4WycQyYd0D+A26eN+WG8BycixbA+V/FDX+A29xy/5sb8e+N22qBmweUQBi0ATPoohHgzfkh8oofuTU/b4EfgcCDgN4vNnxzbP6y7SiEpAs2ELj3ww+/OrauO+fnLf0nvowfWeC3gpACNcd2C+EaWNDyoxFQ3DqSmWDVnWjWWhP5hVli+KxMlLbRUB6O5T+2ZmnOT8EToRbyF5Rb/5TQ+y4ftetdGm8Bn9gm07zcqLq+q2srjv4C</diagram></mxfile>
+<mxfile modified="2020-04-27T01:57:35.967Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="9UQ1Lr16ZdEXAhcbS7Ty" version="12.8.6" type="github" pages="2">
+  <diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="90" width="710" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-1" value="鈔機1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-3" value="鈔機2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-4" value="出單機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-5" value="票機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-6" value="刷卡機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="110" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GMn7nKsz7c9Ex9s03Dm-7" value="上：掃瞄器&lt;br&gt;下：NFC Reader&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="370" width="370" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WdGosFQOMKkZCL3Op6el" name="Page-2">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tGvLXgzktxUfjDL3Rl27-0" />
+        <mxCell id="tGvLXgzktxUfjDL3Rl27-1" parent="tGvLXgzktxUfjDL3Rl27-0" />
+        <mxCell id="jlib0CkcM81zgSy987rW-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="40" y="10" width="550" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-1" value="目標/需求 詳細內容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="340" y="60" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-3" value="ECR主要資訊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="80" y="60" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-4" value="ECR 各 Round 主要資訊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="80" y="280" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-5" value="新增文件功能按鈕" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="80" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-6" value="ECR相關文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="80" y="360" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jlib0CkcM81zgSy987rW-7" value="ECR相關模組版本資訊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tGvLXgzktxUfjDL3Rl27-1">
+          <mxGeometry x="340" y="360" width="200" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
