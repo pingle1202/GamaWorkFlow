@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-27T02:06:56.656Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="XQgpiU-DWylTtt9-t5oZ" version="12.8.6" type="github" pages="4">
+<mxfile modified="2020-04-27T02:16:25.441Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="HOOdnYAUJa0aYb-3AJ5S" version="12.8.6" type="github" pages="4">
   <diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -39,13 +39,8 @@
         <mxCell id="sFI5Fj73AzTQa4wv5Qv4-3" value="各 ECR 主要資訊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6VzvcLz278k2U-HVDPpx-1">
           <mxGeometry x="80" y="160" width="460" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="sFI5Fj73AzTQa4wv5Qv4-4" value="新增ECR Round文件功能按鈕" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6VzvcLz278k2U-HVDPpx-1">
+        <mxCell id="sFI5Fj73AzTQa4wv5Qv4-4" value="新增 ECR 文件功能按鈕" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6VzvcLz278k2U-HVDPpx-1">
           <mxGeometry x="80" y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="B4yL4GVjO8JHxfy3VJ-P-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="6VzvcLz278k2U-HVDPpx-1" source="-yVcEGbBM-ow7bo1bXIW-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="30" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-yVcEGbBM-ow7bo1bXIW-0" value="第一層" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="6VzvcLz278k2U-HVDPpx-1">
           <mxGeometry x="40" y="40" width="160" height="20" as="geometry" />
