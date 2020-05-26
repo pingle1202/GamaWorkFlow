@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-26T10:21:39.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="k3byEA1KRgzc1dhpJmFa" version="13.1.3" type="github">
+<mxfile host="www.draw.io" modified="2020-05-26T10:25:41.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="aG9N4RVqMBCY2GaSGvKc" version="13.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1395" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-2" value="ECR序號申請" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="93" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="79" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="10" width="50" height="50" as="geometry" />
@@ -22,17 +22,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-6" value="RD開發" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="173" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-8" target="4oQZNx9lgn8CLh6xkxKl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-8" target="4oQZNx9lgn8CLh6xkxKl-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="193" as="targetPoint" />
+            <mxPoint x="210" y="179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="293" />
-              <mxPoint x="210" y="203" />
+              <mxPoint x="210" y="279" />
+              <mxPoint x="210" y="189" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,31 +42,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-8" value="QA進測" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="253" width="80" height="80" as="geometry" />
+          <mxGeometry x="265" y="239" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-12" target="4oQZNx9lgn8CLh6xkxKl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-12" value="結案測試報告" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="353" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="339" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-13" target="4oQZNx9lgn8CLh6xkxKl-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-13" value="燒錄光碟" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="433" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-14" target="4oQZNx9lgn8CLh6xkxKl-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-14" value="文管發行" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="513" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="673" width="50" height="50" as="geometry" />
+          <mxGeometry x="280" y="659" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-19" value="待辦事項：&lt;br&gt;1.預計以Semver格式定義&lt;br&gt;Ex:GCMS 3.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="113" width="218" height="20" as="geometry" />
+          <mxGeometry x="380" y="99" width="218" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-25" value="RD" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
@@ -78,28 +78,28 @@
           <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-29" value="每次進測前，由PL與QA討論後確認進測範圍與預計時程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="193" width="190" height="20" as="geometry" />
+          <mxGeometry x="380" y="179" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-32" value="待辦事項：&lt;br&gt;1.結案報告相關文件由QA重新定義" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="353" width="190" height="40" as="geometry" />
+          <mxGeometry x="380" y="339" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-33" value="待辦事項：&lt;br&gt;1.將檔案放置到文管發行File Server，目錄未定&lt;br&gt;2.發Mail到全Gama及Jumbo必要窗口，窗口未定&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="523" width="280" height="20" as="geometry" />
+          <mxGeometry x="380" y="509" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oQZNx9lgn8CLh6xkxKl-34" target="4oQZNx9lgn8CLh6xkxKl-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-34" value="Confluence&lt;br&gt;文件鎖定" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="593" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-37" value="待辦事項：&lt;br&gt;1.確認文管發行後，由QA將文件鎖定，避免再被更改。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="603" width="303" height="20" as="geometry" />
+          <mxGeometry x="380" y="589" width="303" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4oQZNx9lgn8CLh6xkxKl-39" value="待辦事項：&lt;br&gt;1.文件送翻譯外包" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="433" width="190" height="40" as="geometry" />
+          <mxGeometry x="380" y="419" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4oQZNx9lgn8CLh6xkxKl-43" value="待辦事項：&lt;br&gt;1.進測目錄結構由QA重新定義" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="273" width="190" height="40" as="geometry" />
+        <mxCell id="4oQZNx9lgn8CLh6xkxKl-43" value="待辦事項：&lt;br&gt;1.進測File Server，路徑未定&lt;br&gt;2.進測目錄結構由QA重新定義" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="259" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
