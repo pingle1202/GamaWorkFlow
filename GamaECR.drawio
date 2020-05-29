@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-29T05:19:00.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Z4yTOOn7cRDKn8FgBJaI" version="13.1.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-05-29T05:46:35.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vw6nkDqRbGJUXRF9ldIj" version="13.1.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gama 內部ECR流程">
     <mxGraphModel dx="1426" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="oTgptQeOYgolrX3Tl9ep-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r6B-FkzGuG2wDu2rGmW7-1" source="oTgptQeOYgolrX3Tl9ep-5" target="oTgptQeOYgolrX3Tl9ep-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oTgptQeOYgolrX3Tl9ep-5" value="Jumbo接收需求" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+        <mxCell id="oTgptQeOYgolrX3Tl9ep-5" value="Jumbo接收需求並與現場確認版本" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="200" y="187" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N42IHfhtmBUdq3IkiDNs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r6B-FkzGuG2wDu2rGmW7-1" source="oTgptQeOYgolrX3Tl9ep-6" target="N42IHfhtmBUdq3IkiDNs-4">
