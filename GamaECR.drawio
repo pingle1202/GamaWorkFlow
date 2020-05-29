@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-29T03:10:50.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="LfLRA5yYy7neTo6ZOPln" version="13.1.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-05-29T03:34:48.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="lrgTajHBDyT7AOpjLLSQ" version="13.1.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gama 內部ECR流程">
     <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,13 +173,25 @@
         <mxCell id="oTgptQeOYgolrX3Tl9ep-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r6B-FkzGuG2wDu2rGmW7-1" source="oTgptQeOYgolrX3Tl9ep-5" target="oTgptQeOYgolrX3Tl9ep-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oTgptQeOYgolrX3Tl9ep-5" value="Jumbo業務接收需求" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+        <mxCell id="oTgptQeOYgolrX3Tl9ep-5" value="Jumbo內勤接收需求" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="200" y="202" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oTgptQeOYgolrX3Tl9ep-6" value="Jumbo技轉生產" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+        <mxCell id="N42IHfhtmBUdq3IkiDNs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r6B-FkzGuG2wDu2rGmW7-1" source="oTgptQeOYgolrX3Tl9ep-6" target="N42IHfhtmBUdq3IkiDNs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTgptQeOYgolrX3Tl9ep-6" value="Jumbo 資材接收" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="200" y="322" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oTgptQeOYgolrX3Tl9ep-7" value="GAMA負責單位：Mandy下單&lt;br&gt;Jumbo負責單位：Ivy接收需求&lt;br&gt;備註：Gama定期會跟Jumbo要離線版的Bom資料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+        <mxCell id="N42IHfhtmBUdq3IkiDNs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r6B-FkzGuG2wDu2rGmW7-1" source="N42IHfhtmBUdq3IkiDNs-4" target="N42IHfhtmBUdq3IkiDNs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N42IHfhtmBUdq3IkiDNs-4" value="Jumbo 倉庫備料" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+          <mxGeometry x="200" y="462" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N42IHfhtmBUdq3IkiDNs-6" value="Jumbo 業務出貨" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+          <mxGeometry x="200" y="580" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTgptQeOYgolrX3Tl9ep-7" value="GAMA負責單位：Mandy下單&lt;br&gt;Jumbo負責單位：內勤接收需求&lt;br&gt;備註：Gama定期會跟Jumbo要離線版的Bom資料，作為下單判斷依據" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="460" y="81" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oTgptQeOYgolrX3Tl9ep-8" value="GAMA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
@@ -188,7 +200,7 @@
         <mxCell id="oTgptQeOYgolrX3Tl9ep-9" value="Jumbo" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="20" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oTgptQeOYgolrX3Tl9ep-11" value="GAMA負責單位：Mandy&lt;br&gt;GAMA負責單位：業務、業助、技術窗口&lt;br&gt;備註：由Gama發技術通報給Jumbo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
+        <mxCell id="oTgptQeOYgolrX3Tl9ep-11" value="Jumbo負責單位：業務、業助、技術窗口&lt;br&gt;備註：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="r6B-FkzGuG2wDu2rGmW7-1">
           <mxGeometry x="470" y="202" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
