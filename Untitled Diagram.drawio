@@ -1,58 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T07:54:11.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="o0HKk_sfyoPBGmTgexUj" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T07:55:07.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aM1ByOFGvTwSCrmlE40k" version="13.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-15" value="" style="group;fontColor=#5AA9E6;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="200" y="80" width="140" height="392" as="geometry" />
+          <mxGeometry x="200" y="30" width="260" height="490" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-10" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="60" as="targetPoint" />
+            <mxPoint x="111.42857142857143" y="75.00000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="月初上交員工名單" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="222.85714285714286" height="50.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-9" value="月中上交&lt;br&gt;員工出勤明細" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry y="120" width="120" height="40" as="geometry" />
+          <mxGeometry y="150.00000000000003" width="222.85714285714286" height="50.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="店家複驗&lt;br&gt;薪資明細" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry x="10" y="250" width="100" height="80" as="geometry" />
+          <mxGeometry x="18.571428571428573" y="312.50000000000006" width="185.71428571428572" height="100.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="會計發薪" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry y="352" width="120" height="40" as="geometry" />
+          <mxGeometry y="440.00000000000006" width="222.85714285714286" height="50.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=left;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="IuXRzlEwT8Kq3-kGVeZL-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="120" as="targetPoint" />
+            <mxPoint x="111.42857142857143" y="150.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-5" value="會計給付前半月薪水" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry y="60" width="120" height="40" as="geometry" />
+          <mxGeometry y="75.00000000000001" width="222.85714285714286" height="50.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="IuXRzlEwT8Kq3-kGVeZL-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="240" as="targetPoint" />
+            <mxPoint x="111.42857142857143" y="300.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-6" value="會計計算&lt;br&gt;完整薪資明細" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" vertex="1">
-          <mxGeometry y="180" width="120" height="40" as="geometry" />
+          <mxGeometry y="225.00000000000003" width="222.85714285714286" height="50.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-11" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="IuXRzlEwT8Kq3-kGVeZL-9" target="IuXRzlEwT8Kq3-kGVeZL-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="190" as="targetPoint" />
+            <mxPoint x="111.42857142857143" y="237.50000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IuXRzlEwT8Kq3-kGVeZL-14" value="尚須調整" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;curved=1;" parent="IuXRzlEwT8Kq3-kGVeZL-15" source="WIyWlLk6GJQsqaUBKTNV-10" target="IuXRzlEwT8Kq3-kGVeZL-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="290" />
-              <mxPoint x="140" y="200" />
+              <mxPoint x="260" y="362.5" />
+              <mxPoint x="260" y="250.00000000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
