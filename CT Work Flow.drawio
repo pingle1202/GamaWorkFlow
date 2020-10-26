@@ -1,15 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:26:01.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="r4F7tSHuZZqSSJ2MwEos" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:29:18.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VDoXbdKo9R5T71tnHfv-" version="13.8.2" type="github">
   <diagram id="u1OFBZ_wsdvVigk9kQxi" name="異常客人查詢">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="320" as="targetPoint" />
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-7" value="無其他疑慮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-1" target="0Ia2CwPW3c3o2S4HfaaG-6">
+          <mxGeometry y="40" relative="1" as="geometry">
+            <mxPoint x="430" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="190" />
+              <mxPoint x="480" y="530" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-1" target="0Ia2CwPW3c3o2S4HfaaG-8">
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-9" value="尚有疑慮&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-1" target="0Ia2CwPW3c3o2S4HfaaG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-1" value="詢問店家該會員資訊" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -27,14 +32,35 @@
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-6" value="結案" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-8" target="0Ia2CwPW3c3o2S4HfaaG-10">
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-11" value="尚有疑慮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-8" target="0Ia2CwPW3c3o2S4HfaaG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-8" target="0Ia2CwPW3c3o2S4HfaaG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="305" />
+              <mxPoint x="480" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-8" value="Paris查詢輸贏歷程" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="290" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="265" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-10" target="0Ia2CwPW3c3o2S4HfaaG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ia2CwPW3c3o2S4HfaaG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-10" target="0Ia2CwPW3c3o2S4HfaaG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="420" />
+              <mxPoint x="480" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-10" value="Paris查詢下注歷程" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
