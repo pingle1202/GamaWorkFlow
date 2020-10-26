@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:29:18.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VDoXbdKo9R5T71tnHfv-" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:29:50.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BqXqp2a8tU9RcZ8y_PiY" version="13.8.2" type="github">
   <diagram id="u1OFBZ_wsdvVigk9kQxi" name="異常客人查詢">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,13 +24,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-3" value="立案" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-5" value="&lt;h1&gt;常見案例&lt;/h1&gt;&lt;p&gt;某經理反應XXX會員近期輸贏異常&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="40" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-6" value="結案" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="290" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ia2CwPW3c3o2S4HfaaG-11" value="尚有疑慮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ia2CwPW3c3o2S4HfaaG-8" target="0Ia2CwPW3c3o2S4HfaaG-10">
           <mxGeometry relative="1" as="geometry" />
