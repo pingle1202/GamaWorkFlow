@@ -1,51 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T02:13:40.994Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GW6EFVPMrbktdnPQXHci" version="13.8.8" type="github">
-  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-12-07T02:51:44.736Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8lKqY5H-lpHGcDEQpmtv" version="13.8.8" type="github" pages="3">
+  <diagram name="Daily" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qXpaIJGaAezKm9eZwACb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-4" target="qXpaIJGaAezKm9eZwACb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-4" value="每日確認區域營收狀況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="qXpaIJGaAezKm9eZwACb-4" value="確認營運區域營收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXpaIJGaAezKm9eZwACb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-5" target="qXpaIJGaAezKm9eZwACb-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-5" value="每日確認客人輸贏狀況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="qXpaIJGaAezKm9eZwACb-5" value="確認客人輸贏狀況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXpaIJGaAezKm9eZwACb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-6" target="qXpaIJGaAezKm9eZwACb-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-6" value="每日確認遊戲輸贏狀況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXpaIJGaAezKm9eZwACb-6" value="確認營運端營收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-8" value="自動產出日報、週報、月報" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-12" target="qXpaIJGaAezKm9eZwACb-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-12" value="確認遊戲House Edge是否合理" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qXpaIJGaAezKm9eZwACb-12" value="顯示低於過去三個月平均的營運端" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-14" value="確認店家House Edge是否合理" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="qXpaIJGaAezKm9eZwACb-14" value="顯示低於過去三個月平均的營運區域" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-16" target="qXpaIJGaAezKm9eZwACb-18">
+        <mxCell id="qXpaIJGaAezKm9eZwACb-16" value="顯示超過50萬輸贏玩家" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qXpaIJGaAezKm9eZwACb-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXpaIJGaAezKm9eZwACb-23" target="qXpaIJGaAezKm9eZwACb-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-16" value="&lt;span&gt;確認玩家輸贏是否合理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="qXpaIJGaAezKm9eZwACb-23" value="確認遊戲輸贏狀況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-18" value="查詢客人年度輸贏是否合理" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="80" height="80" as="geometry" />
+        <mxCell id="qXpaIJGaAezKm9eZwACb-24" value="顯示低於過去三個月平均的遊戲輸贏" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qXpaIJGaAezKm9eZwACb-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="80" height="80" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7-7vneOJFpXnvQsLUARF" name="Weekly">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="c3hOPl-cqVZhd35StPBg-0" />
+        <mxCell id="c3hOPl-cqVZhd35StPBg-1" parent="c3hOPl-cqVZhd35StPBg-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e4pN4n8-aKrHXC9HRItb" name="Monthly">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zyXXE4efvxho8caP8-47-0" />
+        <mxCell id="zyXXE4efvxho8caP8-47-1" parent="zyXXE4efvxho8caP8-47-0" />
       </root>
     </mxGraphModel>
   </diagram>
